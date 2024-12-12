@@ -1,0 +1,3 @@
+An average investor or fund is estimated to leave 10% to 30% of potential earnings on the table due to their inability to respond quickly to market sentiment. Furthermore, investors and analysts can reduce the time and costs associated with market research by 20% to 50% if they can monitor other investors' opinions in real-time.
+
+Using deep learning, we accurately and efficiently integrate public sentiment into investment decision-making by analyzing unstructured insights and data from news and social media. When you subscribe to our service on our website, you can select the stocks in your portfolio and monitor whether the market sentiment is negative, neutral, or positive, either live or over time.
